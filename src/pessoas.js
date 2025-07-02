@@ -16,7 +16,7 @@ const pessoas = [
   },
   {
     nome: 'Leia Organa',
-    cpf: '987654322',
+    cpf: '987654321',
     frutasFavoritas: ['mamão', 'pitaya'],
   },
   {
